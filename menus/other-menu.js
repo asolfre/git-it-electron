@@ -106,7 +106,7 @@ module.exports = function menu (mainWindow) {
       ]
     },
     {
-      label: '&Resources',
+      label: '&Window',
       submenu: [
         {
           label: 'Home',
